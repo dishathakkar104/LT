@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="MyTestCase">
+        <!-- Define your test parameters and settings here -->
+        <classes>
+            <class name="teat"/>
+            <class name="Listner"/>
+        </classes>
+    </test>
+    <!-- You can define more <test> elements for additional test cases -->
+</suite>
